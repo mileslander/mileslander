@@ -34,7 +34,7 @@
 
 <h3>Connect with me:</h3>
 <p>
-  <a href = https://www.linkedin.com/in/miles-lander-465723385>
+  <a href = https://www.linkedin.com/in/mileslander>
     <img src = "https://skillicons.dev/icons?i=linkedin" alt = "miles-lander"/>
   </a>
 </p>
